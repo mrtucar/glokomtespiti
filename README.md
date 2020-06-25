@@ -1,5 +1,4 @@
-# glokomtespiti
-Glokom Hastalığının Evrişimli Sinir Ağı Mimarileri ile Tespiti
+# Glokom Hastalığının Evrişimli Sinir Ağı Mimarileri ile Tespiti
 
 Bu çalışmada kullanılan veri seti https://github.com/smilell/AG-CNN adreside yer almaktadır. Yazarlardan izin alınarak kullanılmıştır. 
 
